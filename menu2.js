@@ -1,0 +1,2 @@
+var d;
+alert("Bienvenido");

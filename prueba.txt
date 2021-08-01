@@ -1,2 +1,6 @@
-214314
-public static
+package metodos;
+public class operaciones{
+public static void main (String args[]){
+
+}
+}

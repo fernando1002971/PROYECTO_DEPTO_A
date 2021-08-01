@@ -1,2 +1,4 @@
-gfgfg
-public class 
+public class operaciones{
+ public static void main (String args[]){
+ }
+}
